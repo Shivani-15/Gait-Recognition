@@ -7,7 +7,8 @@ CASIA -B dataset -> A large multiview gait database. There are 124 subjects, and
 Gait (walking style)  is a soft biometric. The purpose is to recognize people by their gait data.
 
 ### Solution ###
-Two attention based architectures are implemented inspired from Video Vision Transformer. 
+Two attention based architectures are implemented inspired from Video Vision Transformer. <br>
+Body coordinates extracted from video frames using HRNet are used to generate input features.
 
 
 ### * Architecture 1: Factorized encoder * ###
