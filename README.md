@@ -10,3 +10,10 @@ Gait (walking style)  is a soft biometric. The purpose is to recognize people by
 Two attention based architectures are implemented inspired from Video Vision Transformer. 
 
 
+### * Architecture 1: Factorized encoder * ###
+![image](https://github.com/Shivani-15/Gait-Recognition/assets/58560161/1f83d35a-a46f-409b-9c5d-d2a70b0c95fd)
+<br>
+<br>
+### * Architecture 2: Factorized self-attention * ###
+![image](https://github.com/Shivani-15/Gait-Recognition/assets/58560161/7d73a6a7-0808-4c8c-beed-8dab2dd268ee)
+
