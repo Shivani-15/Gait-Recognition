@@ -1,5 +1,5 @@
 # Gait-Recognition
-
+*This project was done by me and Srishti Ginjala for a course, CS672-Advanced topics in Deep Learning under the guidance of a research scholar Ms. Soma Chakrobarty during our undergraduate at IIT Mandi.* <br>
 ### Dataset ###
 CASIA -B dataset -> A large multiview gait database. There are 124 subjects, and the gait data was captured from 11 views with three variations, namely view angle, clothing and carrying condition changes, separately considered. All the videos are of different length.
 
