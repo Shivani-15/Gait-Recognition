@@ -16,12 +16,12 @@ We have used model based approach instead of appearance based approach since it 
 2. Use the result csv of step 1 as input for preprocess2.py
 3. Use the preprocessed dataset obtained in step 2 as input for any of the two models (model1 pr model2).
 
-### Scope of improvement/ Future scope ###
-1. Confidence value used as a input feature can be used in some other way, since it's nothing but a measure of accuracy of the model used to generate the coordinates from video frames.
-2. Complexity of networks can be increased since the model is learning very complex relation all by itself (no information about natural connections in human body is fed).
 ### * Architecture 1: Factorized encoder * ###
 <img src ="https://github.com/Shivani-15/Gait-Recognition/assets/58560161/1f83d35a-a46f-409b-9c5d-d2a70b0c95fd" width= 300 height = 400>
 
 ### * Architecture 2: Factorized self-attention * ###
 <img src = "https://github.com/Shivani-15/Gait-Recognition/assets/58560161/7d73a6a7-0808-4c8c-beed-8dab2dd268ee" width= 300 height = 400>)
-
+<br>
+### Scope of improvement/ Future scope ###
+1. Confidence value used as a input feature can be used in some other way, since it's nothing but a measure of accuracy of the model used to generate the coordinates from video frames.
+2. Complexity of networks can be increased since the model is learning very complex relation all by itself (no information about natural connections in human body is fed).
